@@ -1,0 +1,23 @@
+{
+  "name": "task-tracker-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "task-cli": "ts-node index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodrigovelazco7997/task-tracker-cli.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rodrigovelazco7997/task-tracker-cli/issues"
+  },
+  "homepage": "https://github.com/rodrigovelazco7997/task-tracker-cli#readme",
+  "dependencies": {
+    "@types/node": "^22.10.7",
+    "typescript": "^5.7.3"
+  }
+}
