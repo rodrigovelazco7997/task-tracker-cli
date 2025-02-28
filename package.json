@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "task-cli": "ts-node index.ts",
-    "start": "ts-node -e \"console.log('Servidor iniciado con TypeScript')\""
+    "start": "node -e \"console.log('Servidor iniciado con TypeScript')\""
   },
   "repository": {
     "type": "git",
@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/rodrigovelazco7997/task-tracker-cli#readme",
   "dependencies": {
-    "@types/node": "^22.10.7",
-    "typescript": "^5.7.3"
+    "@types/node": "22.10.7",
+    "typescript": "5.7.3"
   }
 }
